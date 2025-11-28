@@ -1,0 +1,7 @@
+{
+  "name": "Ace of Spades Gesture Control",
+  "description": "A 3D interactive Ace of Spades card controlled by hand gestures using the webcam.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
