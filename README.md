@@ -40,7 +40,7 @@
 
 1. **克隆项目**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Anyuersuper/ace-of-spades-gesture-control.git
    cd ace-of-spades-gesture-control
    ```
 
